@@ -21,3 +21,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Datos
+data/
+datos/
+*.csv
+*.xlsx
+*.parquet
+
+# Entorno virtual
+venv/
+.venv/
